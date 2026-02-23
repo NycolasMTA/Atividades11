@@ -1,0 +1,150 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Página-1" id="5k0FP7gykZ74jyL3LSfy">
+    <mxGraphModel dx="2593" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-3" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Receber o cliente" vertex="1">
+          <mxGeometry height="80" width="120" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-2" parent="1" style="whiteSpace=wrap;html=1;" value="Seja educado com o cliente" vertex="1">
+          <mxGeometry height="60" width="120" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-46" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GN_ObyqRe3qpYpaLvO04-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-40" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-42" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Qual café o senhor deseja o Expresso ou o Latte?&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="180" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-74" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="GN_ObyqRe3qpYpaLvO04-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-39" parent="1" style="whiteSpace=wrap;html=1;" value="Seguir anotando para o preparo do Expresso" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-76" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GN_ObyqRe3qpYpaLvO04-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-41" parent="1" style="whiteSpace=wrap;html=1;" value="Seguir anotando para o preparo do Latte" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-57" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GN_ObyqRe3qpYpaLvO04-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-61" connectable="0" parent="GN_ObyqRe3qpYpaLvO04-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.4851" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-59" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-60" connectable="0" parent="GN_ObyqRe3qpYpaLvO04-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.1892" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="É para a viagem?" vertex="1">
+          <mxGeometry height="80" width="123" x="400" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-53" parent="1" style="whiteSpace=wrap;html=1;" value="Então coloque o pedido em um copo com tampa" vertex="1">
+          <mxGeometry height="60" width="120" x="401" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-58" parent="1" style="whiteSpace=wrap;html=1;" value="Então coloque em uma xicara" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-88" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Comece a preparar o pedido" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-71" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Cliente escolhe o tipo do café" vertex="1">
+          <mxGeometry height="60" width="100" x="30" y="554.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-72" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.3;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" target="GN_ObyqRe3qpYpaLvO04-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-78" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Comece a preparar o pedido" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-81" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-77" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Halyard Text Regular&amp;quot;, Helvetica, Arial, Lucida, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Primeiramente, extraia 30ml de café espresso&lt;/span&gt;&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="185" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-83" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-80" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Halyard Text Regular&amp;quot;, Helvetica, Arial, Lucida, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;vaporize 160ml de leite observando bem o nível do creme que está sendo processado.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="140" x="180" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-85" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GN_ObyqRe3qpYpaLvO04-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-82" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Halyard Text Regular&amp;quot;, Helvetica, Arial, Lucida, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;adicione o leite vaporizado sob o café expresso.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-84" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="GN_ObyqRe3qpYpaLvO04-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-90" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-89" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-87" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Esquente a agua da maquina de café" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-92" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-91" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-89" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Coloque a capsula do café escolhido" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="845" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-94" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-93" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-91" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Apertar o Botão de começar" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-93" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="espere a maquina despejar no recipiente" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-95" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-103" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GN_ObyqRe3qpYpaLvO04-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-99" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Entregar para o Cliente" vertex="1">
+          <mxGeometry height="60" width="100" x="590" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-100" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="GN_ObyqRe3qpYpaLvO04-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-101" edge="1" parent="1" source="GN_ObyqRe3qpYpaLvO04-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="GN_ObyqRe3qpYpaLvO04-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_ObyqRe3qpYpaLvO04-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="580" y="1370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Página-1" id="MbcsmSzXjyDgxcfYTWQq">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-3" edge="1" parent="1" source="SS7lbCeAoyZkvoAEbqDr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SS7lbCeAoyZkvoAEbqDr-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-5" edge="1" parent="1" source="SS7lbCeAoyZkvoAEbqDr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SS7lbCeAoyZkvoAEbqDr-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-2" parent="1" style="whiteSpace=wrap;html=1;" value="Verificar o nome do usuario" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-7" edge="1" parent="1" source="SS7lbCeAoyZkvoAEbqDr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-4" parent="1" style="whiteSpace=wrap;html=1;" value="Pergunte qual seu nome" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-10" edge="1" parent="1" source="SS7lbCeAoyZkvoAEbqDr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="SS7lbCeAoyZkvoAEbqDr-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-16" connectable="0" parent="SS7lbCeAoyZkvoAEbqDr-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.24" y="5" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-14" edge="1" parent="1" source="SS7lbCeAoyZkvoAEbqDr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="SS7lbCeAoyZkvoAEbqDr-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-15" connectable="0" parent="SS7lbCeAoyZkvoAEbqDr-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Não" vertex="1">
+          <mxGeometry relative="1" x="0.1294" y="-2" as="geometry">
+            <mxPoint x="-13" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Olá, (nome)&amp;nbsp;&lt;div&gt;tudo bem?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="325" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-12" edge="1" parent="1" source="SS7lbCeAoyZkvoAEbqDr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="SS7lbCeAoyZkvoAEbqDr-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-9" parent="1" style="whiteSpace=wrap;html=1;" value="Estou Muito bem obrigado" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="110" x="545" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-17" edge="1" parent="1" source="SS7lbCeAoyZkvoAEbqDr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="SS7lbCeAoyZkvoAEbqDr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7lbCeAoyZkvoAEbqDr-13" parent="1" style="whiteSpace=wrap;html=1;" value="Tchau" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Página-1" id="Vu361xa8oFC7rP6ARGZN">
+    <mxGraphModel dx="1426" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-3" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71_Fma_PPIOJ0KLN3LAz-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-5" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71_Fma_PPIOJ0KLN3LAz-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-2" parent="1" style="whiteSpace=wrap;html=1;" value="Receber número" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-11" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71_Fma_PPIOJ0KLN3LAz-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="O número &amp;lt;0?" vertex="1">
+          <mxGeometry height="80" width="130" x="335" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Exibir &quot;Número inválido&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-13" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71_Fma_PPIOJ0KLN3LAz-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Exibir número" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-15" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71_Fma_PPIOJ0KLN3LAz-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-12" parent="1" style="whiteSpace=wrap;html=1;" value="Número = número -1&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-17" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71_Fma_PPIOJ0KLN3LAz-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-32" connectable="0" parent="71_Fma_PPIOJ0KLN3LAz-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="4" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Número &amp;gt;=0?" vertex="1">
+          <mxGeometry height="80" width="130" x="335" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-16" parent="1" style="whiteSpace=wrap;html=1;" value="Voltar para &quot;Exibir número&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1047" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="540" y="1047" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.288;entryDx=0;entryDy=0;entryPerimeter=0;" target="71_Fma_PPIOJ0KLN3LAz-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1070" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-25" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.142;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" target="71_Fma_PPIOJ0KLN3LAz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-30" connectable="0" parent="71_Fma_PPIOJ0KLN3LAz-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.5588" y="-3" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-26" edge="1" parent="1" source="71_Fma_PPIOJ0KLN3LAz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.192;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="71_Fma_PPIOJ0KLN3LAz-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="620" />
+              <mxPoint x="570" y="799" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-31" connectable="0" parent="71_Fma_PPIOJ0KLN3LAz-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.6934" y="4" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71_Fma_PPIOJ0KLN3LAz-28" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="953" />
+              <mxPoint x="612" y="953" />
+            </Array>
+            <mxPoint x="613" y="860" as="sourcePoint" />
+            <mxPoint x="612" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
